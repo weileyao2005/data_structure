@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(e:/miniconda/python.exe -c \"import sys; print\\(sys.executable\\)\")",
+      "Bash(e:/miniconda/python.exe -c ' *)",
+      "Bash(e:/miniconda/python.exe parse_raw.py)",
+      "Bash(e:/miniconda/python.exe build_final.py)"
+    ]
+  }
+}
