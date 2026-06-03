@@ -9,3 +9,4 @@ venv/
 .vscode/
 *.sqlite3
 *.db
+textbook/**/*.pdf
